@@ -1,0 +1,25 @@
+
+{
+    "queries": [
+      {
+        "query1": "XXX",
+        "focus": "YYY, ZZZ, CCCC"
+      },
+      {
+        "query2": "",
+        "focus": ""
+      },
+      {
+        "query3": "",
+        "focus": ""
+      },
+      {
+        "query4": "",
+        "focus": ""
+      },
+      {
+        "query5": "",
+        "focus": ""
+      }
+    ]
+  }

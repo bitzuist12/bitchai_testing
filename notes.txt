@@ -1,0 +1,68 @@
+overlapping chunk konusu biraz sikinti 
+
+2. what would be the intention of this person if they are asking this.  they are in this chatbot, collection, this collection has these documents.  document names 
+3. Answer gelecek llama index,ten onu da su prensiplere gore temizle ve yolla.  specific ve succinct. 
+4. Can even doa  quick web search (or use other tools, it can be going to an excel file or pulling something
+gpt4o kullanabilirim..)
+5. they are good with role playing...
+6. expected output onemli
+7. even for summarization... we can do amazing chunking man... or steps......
+
+source konusunu cozmemiz lazim
+
+1. Chunk retrieval and re-ranking maybe useful too
+2. 20 Chunks, score, re-rank. Use top 5
+
+role play is smart.
+goal and expectations.
+
+clean like paul graham gibi
+
+test on terminal with chunks!!!!
+manual testing but OK.
+
+the ability to show it what's it's doing is good actually
+https://learn.deeplearning.ai/courses/multi-ai-agent-systems-with-crewai/lesson/15/mutli-agent-collaboration-for-financial-analysis-(code) 
+
+one that fact checks.... 
+quality checks.... this is useless...
+i wonder if we can extract alllllll data from pdfs.... recursive summary append and that's the corss check double checkl.
+
+rewrite witht hsi feedback kind a thing...
+
+what is the goal, what is the process....
+
+tool call yaparsan db ye gidip ya da jsona gidip control f yapip arada dogru keyworda dondurecek. rakami bulabilir sana mesela
+
+
+write the thought...
+
+Usleess..
+editor:
+Useless: Leading Role in Southeast Asia: Singapore is a key player in the Southeast Asia cold chain market, with significant investments in cold storage facilities.
+useless: Market Size and Revenue: Singapore's cold chain market is compared to other countries like the Netherlands, New Zealand, USA, South Korea, and China in terms of market size and revenue.
+need examples: High Specification Facilities: Since the early 2000s, there has been a development of high specification cold storage facilities with automation to meet the demand for mixed cold and ambient storage.
+
+maybe output comes, give feedback,, resend..... guzel olabilir
+
+
+
+
+
+
+> hglong16: chat_with_chat_engine 
+> hglong16: but if you want to see > hglong16: all metadata and node
+docker build -t bitch_ai/llama_fast . && docker compose up
+
+
+
+this is not good for instance
+"What is the projected new supply of cold storage facilities in Singapore for the next 5 years?", "focus": "new supply, Singapore, cold storage"},
+
+maybe then need to do web search man 
+
+
+Projected Development: Future cold storage capacity in Singapore is expected to be developed in a consolidated manner.
+Key Drivers: This development will be backed by large institutional investors and government endorsement.
+Sources: Information is based on CBRE Supply Chain Advisory 2020 and GCCA.
+No specific numerical projections for the next 5 years were provided in the documents reviewed.
