@@ -1,3 +1,27 @@
+nomic icin discord gerekebilir.
+
+
+bitchai 
+1. prompt improved
+2. editor konusu...
+
+
+farkli pdf'lere nasil gidilir konus uvar
+
+source matters too...
+
+
+noktadna ayrimak gerkeebilir....
+chunklari....
+overlapping chunk issue...
+
+
+
+mesela yazi gelecek
+feedback adami feedback verecek.  bu section kotu diyip yollayacak....
+tekrar feedback alacak falan....
+tekrar soracak. tekrar bir araya getirece.
+
 overlapping chunk konusu biraz sikinti 
 
 2. what would be the intention of this person if they are asking this.  they are in this chatbot, collection, this collection has these documents.  document names 
@@ -7,6 +31,8 @@ gpt4o kullanabilirim..)
 5. they are good with role playing...
 6. expected output onemli
 7. even for summarization... we can do amazing chunking man... or steps......
+
+when answer comes we'lldo one more check
 
 source konusunu cozmemiz lazim
 

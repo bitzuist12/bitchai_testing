@@ -115,6 +115,9 @@ def query_expansion(user_input, chat_id):
     return improved_queries
 
 
+#here, we also need a final editor... I can test it on bitchAI answers....
+
+
 
 step1 = humanize_prompt("Summarize SG CS market", "1234")
 step2 = improve_prompt(step1, "1234")
